@@ -42,7 +42,7 @@ We are going to break our application into a few different components. Because o
 
 6. Notice the code comments within the { }. We will 'escape' into Javascript and map over an array of contacts here.
 
-7, Now, navigate back to the App.jsx, import our new ContactList component, and place it within the empty React Fragments. 
+7. Now, navigate back to the App.jsx, import our new ContactList component, and place it within the empty React Fragments. 
 
 8. Navigate to the browser. You should be able to observe a simple table heading and three columns labeled "Name", "Email", and "Phone". You are now ready to create new rows for each of the contacts. You only need to add the actual contact data.
 
